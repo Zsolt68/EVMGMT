@@ -1,0 +1,14 @@
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\ami\Documents\Visual Studio 2015\Projects\EVMGMT\Events.Data\obj\Debug\Events.Data.pdb
